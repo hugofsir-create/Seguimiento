@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard entregas ",
+  "description": "Una aplicación para cargar un archivo de Excel y mostrar su contenido en una cuadrícula de datos limpia y ordenable. Proporciona una forma sencilla de visualizar datos de hojas de cálculo directamente en el navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
